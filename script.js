@@ -34,8 +34,8 @@ var quotes = [
 		  "Now we play the waiting game…Ahh, the waiting game sucks. Let’s play Hungry Hungry Hippos!"
 	],
 	person: "- Homer Simpson",
-	img: "https://www.dropbox.com/s/2opyai46d2rks0l/homer.png?raw=1",
-	color: "#a1be26",
+	img: "http://i.imgur.com/3Y8chBg.png",
+	color: "#87ceeb",
 	colorHover: "#11ecf5",
 	},
 		];
