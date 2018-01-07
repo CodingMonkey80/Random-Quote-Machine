@@ -1,9 +1,9 @@
 body{
   min-height:100vh;
-  background-image:   url("https://www.dropbox.com/s/2opyai46d2rks0l/homer.png?raw=1");
+  background-image:   url("http://i.imgur.com/3Y8chBg.png");
   background-size:cover;
   background-repeat:no-repeat;
-  color: #a1be26;
+  color: #87ceeb;
 
 }
 
@@ -12,24 +12,24 @@ body{
 }
 
 .single-color{
-  color: #a1be26;
+  color: #87ceeb;
 }
 
 .single-color:hover{
-  color: #a1be26;
+  color: #87ceeb;
 }
 
 .btn-single-color{
   color: #fff;
-  background-color: #a1be26;
-  border-color: #a1be26;
+  background-color: #87ceeb;
+  border-color: #00bfff;
   
 }
 
 .btn-single-color:hover{
   color: #fff;
-  background-color: #a1be26;
-  border-color: #a1be26;
+  background-color: #87ceeb;
+  border-color: #87ceeb;
 }
 
 .all-white p, a, a:hover{
